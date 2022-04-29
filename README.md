@@ -1,6 +1,12 @@
-# dacon 제 20대 대선 후보 정책•공약 시각화 경진대회
+# Dacon 제 20대 대선 후보 정책•공약 시각화 경진대회
+> 2022/03/09 ~2022/04/15
+>
+> `최종 2위`
+
 - 해당 Repository는 __제 20대 대선 후보 정책•공약 시각화 경진대회__ 제출 자료입니다.
-- http://share.streamlit.io/trailblazer-yoo/streamlit_promise/promise.py 로 들어가시면 해당 자료를 streamlit을 통해 확인하실 수 있습니다.
+- 하단의 링크로 들어가시면 해당 자료를 streamlit을 통해 확인하실 수 있습니다.
+- [Dacon 코드 공유](https://dacon.io/competitions/official/235891/codeshare/4765?page=1&dtype=random)
+- [streamlit](http://share.streamlit.io/trailblazer-yoo/streamlit_promise/promise.py)
 
 ## 사용 방법
 <img width = "70%" src="https://user-images.githubusercontent.com/97590480/163096295-2a30e113-9171-4d68-9e32-94c8ee5df191.png">
@@ -22,7 +28,7 @@
    - 실행시키는 방법은 cmd창을 여시고 `promise.py`파일이 들어있는 폴더(여기서는 streamlit_frontendservice입니다)로 들어가서셔 다음 명령어를 실행시켜주시면 됩니다.
    - `streamlit run promise.py`
    - 맨 위에 링크는 로컬이 아닌 streamlit 서버에서 제공하는 url로 로컬에서 실행한 것과 동일합니다.
-<img width = "70%" src="https://user-images.githubusercontent.com/97590480/163096631-baf8f862-769f-4c0c-98bb-5ed86127c50d.png">
+   <img width = "70%" src="https://user-images.githubusercontent.com/97590480/163096631-baf8f862-769f-4c0c-98bb-5ed86127c50d.png">
 
 ## 2. m1 가상환경 설정 방법
 <img src="https://user-images.githubusercontent.com/97590480/163097020-24787a7c-8690-493a-a4f0-59a511c1bf04.png">
